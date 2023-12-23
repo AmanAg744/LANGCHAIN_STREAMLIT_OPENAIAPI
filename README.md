@@ -22,10 +22,6 @@ Before you begin, ensure you have met the following requirements:
 
 2. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 3. Set up your OpenAI API key:
 
     Replace `'api_key'` in the `openai.api_key` assignment with your actual OpenAI API key.
