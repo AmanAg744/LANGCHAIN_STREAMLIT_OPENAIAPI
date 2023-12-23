@@ -4,7 +4,7 @@ import os
 import langchain
 from langchain import ChatOpenAI
 
-openai.api_key = "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"
+openai.api_key = ""
 
 template = """SQL tables (and columns):
 * Customers(customer_id, signup_date)
